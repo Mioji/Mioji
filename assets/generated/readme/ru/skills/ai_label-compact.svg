@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 42" role="img" aria-labelledby="title">
+<title id="title">AI-инженерия</title>
+<path d="M0.5 0.5H465L479.5 15V41.5H0.5Z" stroke="#3f2c52" fill="#0d0b14" stroke-width="1" opacity="1"/>
+<path d="M0.5 23V0.5H24M456 41.5H479.5V18" stroke="#b59af4" fill="none" stroke-width="1" opacity="1"/>
+<path d="M3 3H45V39H3Z" stroke="#21192d" fill="#21192d" stroke-width="1" opacity="1"/>
+<path d="M48 10v22" stroke="#3f2c52" fill="none" stroke-width="1" opacity="1"/>
+<text x="16" y="26" font-size="13" font-family="Consolas, Liberation Mono, monospace" font-weight="600" fill="#f28acb">03</text>
+<text x="62" y="26" font-size="16" font-family="Segoe UI, PingFang SC, Microsoft YaHei, Arial, sans-serif" font-weight="600" fill="#f5effb">AI-инженерия</text>
+<path d="M414 10v22" stroke="#3f2c52" fill="none" stroke-width="1" opacity="1"/>
+<text x="455" y="26" text-anchor="end" font-size="13" font-family="Consolas, Liberation Mono, monospace" font-weight="600" fill="#b59af4">06</text>
+</svg>

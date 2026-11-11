@@ -1,0 +1,87 @@
+{
+  "language": "English",
+  "locale_code": "en",
+  "locale_format": {
+    "number": {
+      "decimal_separator": ".",
+      "compact_suffixes": {
+        "thousand": "k",
+        "million": "M",
+        "billion": "B"
+      }
+    },
+    "date": {
+      "timestamp_format": "%Y-%m-%d %H:%M UTC",
+      "date_format": "%Y-%m-%d"
+    }
+  },
+  "content": {
+    "banner_alt": "Cyberpunk cityscape in violet and plum neon with rose-haired character illustration.",
+    "projects_heading": "Project library",
+    "dashboard_heading": "Public activity",
+    "profile_heading": "Profile statistics",
+    "skills_heading": "Skills",
+    "knowledge_heading": "Knowledge & interests",
+    "pattsys": "Technology and large-scale research in LLMs and software development.",
+    "registry": "The world's largest registry of verified patterns, algorithms, architectures, and libraries.",
+    "profile_description": "Automated GitHub profile system: SVG dashboard engine, metric aggregation, and CI workflows.",
+    "dashboard_title": "GitHub at a glance",
+    "repositories_label": "Public repositories",
+    "stars_label": "Stars received",
+    "forks_label": "Repository forks",
+    "followers_label": "Followers",
+    "following_label": "Following",
+    "gists_label": "Public gists",
+    "originals_label": "Source repositories",
+    "open_items_label": "Open issues & PRs",
+    "language_stats_label": "Primary repository languages",
+    "no_language_data": "No public language data yet",
+    "active_label": "Active projects",
+    "development_label": "In development",
+    "project_stars_label": "Project stars",
+    "public_total": "Public total",
+    "public_label": "Public",
+    "private_label": "Private",
+    "active_status": "Active",
+    "development_status": "In development",
+    "archived_status": "Archived",
+    "project_stars_caption": "Stars",
+    "private_stars_caption": "Not public",
+    "more_projects": "Projects {start}–{end}",
+    "updated_label": "Updated",
+    "public_scope": "Public GitHub data",
+    "refresh_note": "Refreshed daily by GitHub Actions",
+    "activity_scope": "30-day rolling timeline · GitHub Events API",
+    "quick_alt": "Project overview: {active} active, {development} in development, {stars} public project stars.",
+    "dashboard_alt": "GitHub activity snapshot: {repositories} repositories, {stars} stars, {forks} forks, {followers} followers. {events} events logged over the last 30 UTC days.",
+    "observed_events_label": "Events returned",
+    "active_days_label": "Active UTC dates",
+    "event_repositories_label": "Repositories in feed",
+    "joined_label": "Member since",
+    "last_push_label": "Last public push",
+    "archived_label": "Archived repositories",
+    "forked_label": "Forked repositories",
+    "softskills_label": "Focus & values",
+    "interests_label": "Interests",
+    "devops_label": "DevOps & reliability",
+    "languages_label": "Languages",
+    "ai_label": "AI engineering",
+    "license_code": "Code",
+    "license_art": "Art & profile"
+  },
+  "structured_lists": {
+    "softskills_items": [
+      "Advancing humanity",
+      "Technology",
+      "Innovation",
+      "Scientific research"
+    ],
+    "interests_items": [
+      "Science",
+      "Books",
+      "Guitars",
+      "Music",
+      "Anime"
+    ]
+  }
+}

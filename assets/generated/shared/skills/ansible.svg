@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 212 42" role="img" aria-labelledby="title">
+<title id="title">Ansible</title>
+<path d="M0.5 0.5H197L211.5 15V41.5H0.5Z" stroke="#3f2c52" fill="#0d0b14" stroke-width="1" opacity="1"/>
+<path d="M0.5 23V0.5H24M188 41.5H211.5V18" stroke="#b59af4" fill="none" stroke-width="1" opacity="1"/>
+<path d="M3 3H38V39H3Z" stroke="#21192d" fill="#21192d" stroke-width="1" opacity="1"/>
+<path d="M41 8v26" stroke="#3f2c52" fill="none" stroke-width="1" opacity="1"/>
+<text x="12.7" y="26" font-size="13" font-family="Consolas, Liberation Mono, monospace" font-weight="600" fill="#b59af4">An</text>
+<text x="52" y="26" font-size="15" font-family="Segoe UI, PingFang SC, Microsoft YaHei, Arial, sans-serif" font-weight="600" fill="#f5effb">Ansible</text>
+</svg>

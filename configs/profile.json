@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "username": "Mioji",
+    "banner": {
+      "asset_path": "assets/profile/banner.webp",
+      "alt_key": "banner_alt",
+      "link_target": "https://github.com/Mioji"
+    }
+  },
+  "contacts": [
+    {
+      "id": "telegram",
+      "label": "Telegram",
+      "mark": "Tg",
+      "href": "https://t.me/mioji1",
+      "accent": "pink"
+    },
+    {
+      "id": "email",
+      "label": "Email",
+      "mark": "@",
+      "href": "mailto:mioji.net@outlook.com",
+      "accent": "pink"
+    }
+  ],
+  "layout": {
+    "sections": [
+      {
+        "id": "work",
+        "heading_key": "projects_heading",
+        "component": "projects"
+      },
+      {
+        "id": "activity",
+        "heading_key": "dashboard_heading",
+        "component": "activity"
+      },
+      {
+        "id": "profile",
+        "heading_key": "profile_heading",
+        "component": "statistics"
+      },
+      {
+        "id": "skills",
+        "heading_key": "skills_heading",
+        "component": "skills"
+      },
+      {
+        "id": "knowledge",
+        "heading_key": "knowledge_heading",
+        "component": "knowledge"
+      }
+    ]
+  },
+  "catalog": {
+    "page_size": 6,
+    "projects": [
+      {
+        "repository": "pattsys/pattsys",
+        "description_key": "pattsys",
+        "status": "development",
+        "visibility": "private",
+        "background_key": "pattsys"
+      },
+      {
+        "repository": "pattsys/pattsys-registry",
+        "description_key": "registry",
+        "status": "development",
+        "visibility": "private",
+        "background_key": "pattsys-registry"
+      },
+      {
+        "repository": "Mioji/Mioji",
+        "description_key": "profile_description",
+        "status": "active",
+        "visibility": "public",
+        "background_key": "profile"
+      }
+    ]
+  }
+}

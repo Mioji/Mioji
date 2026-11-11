@@ -1,0 +1,58 @@
+version = 1
+
+# Machine-readable license assignment (https://reuse.software). It mirrors
+# Section 1 of LICENSE. Source files with an SPDX header are not listed
+# here; tooling/tests/test_licensing.py checks that both sources agree
+# and that every file is covered.
+
+SPDX-PackageName = "Mioji/Mioji"
+SPDX-PackageSupplier = "Alexander (Mioji) <mioji.net@outlook.com>"
+SPDX-PackageDownloadLocation = "https://github.com/Mioji/Mioji"
+
+[[annotations]]
+path = [
+    "REUSE.toml",
+    "pyproject.toml",
+    ".gitignore",
+    ".gitattributes",
+    "docs/**",
+    "configs/theme.json",
+    "configs/skills.json",
+    "locales/readme/template.md",
+    "tooling/requirements-dev.in",
+    "tooling/requirements-dev.txt",
+]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 Alexander (Mioji) <mioji.net@outlook.com>"
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = [
+    "README.md",
+    "assets/profile/**",
+    "assets/generated/**",
+    "locales/readme/*/strings.json",
+    "locales/readme/*/README.md",
+    "configs/profile.json",
+    "configs/data/**",
+]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 Alexander (Mioji) <mioji.net@outlook.com>"
+SPDX-License-Identifier = "CC-BY-NC-ND-4.0"
+
+# LICENSE quotes both identifiers as prose, so any tags inside it must not
+# be read as a declaration for the file itself.
+[[annotations]]
+path = "LICENSE"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 Alexander (Mioji) <mioji.net@outlook.com>"
+SPDX-License-Identifier = "MIT"
+
+# The prompts are published as a reference for generating independent
+# artwork (LICENSE, Section 3). Later annotations win over earlier ones,
+# so this entry overrides the assets/profile/** entry above.
+[[annotations]]
+path = "assets/profile/backgrounds/prompts/**"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 Alexander (Mioji) <mioji.net@outlook.com>"
+SPDX-License-Identifier = "MIT"

@@ -1,0 +1,87 @@
+{
+  "language": "简体中文",
+  "locale_code": "zh-CN",
+  "locale_format": {
+    "number": {
+      "decimal_separator": ".",
+      "compact_suffixes": {
+        "thousand": "k",
+        "million": "M",
+        "billion": "B"
+      }
+    },
+    "date": {
+      "timestamp_format": "%Y-%m-%d %H:%M UTC",
+      "date_format": "%Y-%m-%d"
+    }
+  },
+  "content": {
+    "banner_alt": "紫红与深梅色霓虹夜城背景下的赛博朋克动漫人物插画。",
+    "projects_heading": "项目库",
+    "dashboard_heading": "公开活动",
+    "profile_heading": "个人资料统计",
+    "skills_heading": "技能",
+    "knowledge_heading": "知识与兴趣",
+    "pattsys": "面向大语言模型与软件开发的技术体系与深度研究。",
+    "registry": "全球规模最大的经验证模式、算法、架构与代码库注册中心。",
+    "profile_description": "自动化 GitHub 个人主页：SVG 数据看板引擎、指标聚合流水线与 CI 工作流。",
+    "dashboard_title": "GitHub 概览",
+    "repositories_label": "公开仓库",
+    "stars_label": "获得的星标",
+    "forks_label": "仓库分支数",
+    "followers_label": "关注者",
+    "following_label": "正在关注",
+    "gists_label": "公开 Gist",
+    "originals_label": "原创仓库",
+    "open_items_label": "未关闭的 Issue 与 PR",
+    "language_stats_label": "仓库主要语言",
+    "no_language_data": "暂无公开语言数据",
+    "active_label": "活跃项目",
+    "development_label": "开发中",
+    "project_stars_label": "项目星标",
+    "public_total": "公开数据合计",
+    "public_label": "公开",
+    "private_label": "私有",
+    "active_status": "活跃",
+    "development_status": "开发中",
+    "archived_status": "已归档",
+    "project_stars_caption": "星标",
+    "private_stars_caption": "不公开",
+    "more_projects": "项目 {start}–{end}",
+    "updated_label": "更新于",
+    "public_scope": "GitHub 公开数据",
+    "refresh_note": "每日由 GitHub Actions 更新",
+    "activity_scope": "30 日滚动事件流 · GitHub Events API",
+    "quick_alt": "项目概览：{active} 个活跃项目，{development} 个开发中项目，{stars} 个公开项目星标。",
+    "dashboard_alt": "GitHub 活动指标：{repositories} 个仓库，{stars} 颗星标，{forks} 次派生，{followers} 位关注者。近 30 个 UTC 日内记录了 {events} 次事件。",
+    "observed_events_label": "返回事件数",
+    "active_days_label": "活跃 UTC 日期",
+    "event_repositories_label": "事件中的仓库",
+    "joined_label": "加入日期",
+    "last_push_label": "最近公开推送",
+    "archived_label": "已归档仓库",
+    "forked_label": "派生仓库",
+    "softskills_label": "关注方向",
+    "interests_label": "个人兴趣",
+    "devops_label": "DevOps 与可靠性",
+    "languages_label": "语言",
+    "ai_label": "AI 工程",
+    "license_code": "代码",
+    "license_art": "美术与主页"
+  },
+  "structured_lists": {
+    "softskills_items": [
+      "推动人类进步",
+      "科技",
+      "创新",
+      "科学研究"
+    ],
+    "interests_items": [
+      "科学",
+      "书籍",
+      "吉他",
+      "音乐",
+      "动漫"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "username": "Mioji",
+  "collection_started_at": "2026-11-11T00:54:12Z",
+  "fetched_at": "2026-11-11T00:54:12Z",
+  "followers": 0,
+  "following": 0,
+  "gists": 0,
+  "created_at": "2026-07-30T03:50:27Z",
+  "repositories": [
+    {
+      "name": "Mioji/Mioji",
+      "stars": 0,
+      "forks": 0,
+      "open_items": 0,
+      "fork": false,
+      "archived": false,
+      "language": "Python",
+      "pushed_at": "2026-11-11T00:53:36Z"
+    }
+  ],
+  "project_repositories": [],
+  "events": [
+    {
+      "id": "19677504283",
+      "type": "WatchEvent",
+      "repository": "cloudflare/security-audit-skill",
+      "created_at": "2026-11-10T15:08:24Z"
+    },
+    {
+      "id": "25418667573",
+      "type": "CreateEvent",
+      "repository": "Mioji/Mioji",
+      "created_at": "2026-10-27T19:33:38Z"
+    }
+  ]
+}

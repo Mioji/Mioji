@@ -1,0 +1,108 @@
+{
+  "languages_label": [
+    {
+      "label": "Rust",
+      "mark": "Rs",
+      "url": "https://doc.rust-lang.org/book/"
+    },
+    {
+      "label": "TypeScript",
+      "mark": "Ts",
+      "url": "https://www.typescriptlang.org/docs/"
+    },
+    {
+      "label": "Python",
+      "mark": "Py",
+      "url": "https://docs.python.org/3/"
+    },
+    {
+      "label": "Java",
+      "mark": "Jv",
+      "url": "https://dev.java/learn/"
+    },
+    {
+      "label": "HTML",
+      "mark": "<>",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+    },
+    {
+      "label": "CSS",
+      "mark": "{}",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+    }
+  ],
+  "devops_label": [
+    {
+      "label": "Linux",
+      "mark": "Lx",
+      "url": "https://docs.kernel.org/"
+    },
+    {
+      "label": "Bash",
+      "mark": ">_",
+      "url": "https://www.gnu.org/software/bash/manual/"
+    },
+    {
+      "label": "Docker",
+      "mark": "Dk",
+      "url": "https://docs.docker.com/"
+    },
+    {
+      "label": "Kubernetes",
+      "mark": "K8",
+      "url": "https://kubernetes.io/docs/"
+    },
+    {
+      "label": "Terraform",
+      "mark": "Tf",
+      "url": "https://developer.hashicorp.com/terraform/docs"
+    },
+    {
+      "label": "Ansible",
+      "mark": "An",
+      "url": "https://docs.ansible.com/"
+    },
+    {
+      "label": "GitHub Actions",
+      "mark": "CI",
+      "url": "https://docs.github.com/en/actions"
+    },
+    {
+      "label": "Prometheus",
+      "mark": "Pm",
+      "url": "https://prometheus.io/docs/introduction/overview/"
+    }
+  ],
+  "ai_label": [
+    {
+      "label": "PyTorch",
+      "mark": "Pt",
+      "url": "https://docs.pytorch.org/docs/stable/index.html"
+    },
+    {
+      "label": "Transformers",
+      "mark": "Tr",
+      "url": "https://huggingface.co/docs/transformers/index"
+    },
+    {
+      "label": "Vector search",
+      "mark": "Vs",
+      "url": "https://qdrant.tech/documentation/"
+    },
+    {
+      "label": "RAG",
+      "mark": "Rg",
+      "url": "https://huggingface.co/docs/transformers/model_doc/rag"
+    },
+    {
+      "label": "Evaluation",
+      "mark": "Ev",
+      "url": "https://huggingface.co/docs/evaluate/index"
+    },
+    {
+      "label": "Inference",
+      "mark": "If",
+      "url": "https://docs.vllm.ai/en/latest/"
+    }
+  ]
+}

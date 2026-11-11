@@ -1,0 +1,87 @@
+{
+  "language": "Русский",
+  "locale_code": "ru",
+  "locale_format": {
+    "number": {
+      "decimal_separator": ",",
+      "compact_suffixes": {
+        "thousand": " тыс.",
+        "million": " млн",
+        "billion": " млрд"
+      }
+    },
+    "date": {
+      "timestamp_format": "%d.%m.%Y %H:%M UTC",
+      "date_format": "%d.%m.%Y"
+    }
+  },
+  "content": {
+    "banner_alt": "Киберпанк-панорама ночного города в сливово-фиолетовом неоне с иллюстрацией персонажа.",
+    "projects_heading": "Библиотека проектов",
+    "dashboard_heading": "Публичная активность",
+    "profile_heading": "Статистика профиля",
+    "skills_heading": "Навыки",
+    "knowledge_heading": "Знания и интересы",
+    "pattsys": "Технология и большое исследование в сфере LLM и разработки.",
+    "registry": "Самый большой реестр в мире с проверенными паттернами, алгоритмами, архитектурами и библиотеками.",
+    "profile_description": "Автоматизированный хаб профиля: движок генерации SVG-дашбордов, агрегация метрик и CI-пайплайны.",
+    "dashboard_title": "GitHub в цифрах",
+    "repositories_label": "Публичные репозитории",
+    "stars_label": "Полученные звёзды",
+    "forks_label": "Форки репозиториев",
+    "followers_label": "Подписчики",
+    "following_label": "Подписки",
+    "gists_label": "Публичные gist",
+    "originals_label": "Исходные репозитории",
+    "open_items_label": "Открытые issues и PR",
+    "language_stats_label": "Основные языки репозиториев",
+    "no_language_data": "Публичных данных о языках пока нет",
+    "active_label": "Активные проекты",
+    "development_label": "В разработке",
+    "project_stars_label": "Звёзды проектов",
+    "public_total": "Публичный итог",
+    "public_label": "Публичный",
+    "private_label": "Закрытый",
+    "active_status": "Активный",
+    "development_status": "В разработке",
+    "archived_status": "В архиве",
+    "project_stars_caption": "Звёзды",
+    "private_stars_caption": "Скрыто",
+    "more_projects": "Проекты {start}–{end}",
+    "updated_label": "Обновлено",
+    "public_scope": "Публичные данные GitHub",
+    "refresh_note": "Ежедневное обновление через GitHub Actions",
+    "activity_scope": "30-дневное окно · GitHub Events API",
+    "quick_alt": "Сводка проектов: активных — {active}, в разработке — {development}, публичных звёзд — {stars}.",
+    "dashboard_alt": "Метрики GitHub: {repositories} репозиториев, {stars} звёзд, {forks} форков, {followers} подписчиков. {events} событий за последние 30 дней (UTC).",
+    "observed_events_label": "Получено событий",
+    "active_days_label": "Активные даты UTC",
+    "event_repositories_label": "Репозитории в ленте",
+    "joined_label": "На GitHub с",
+    "last_push_label": "Последний публичный push",
+    "archived_label": "Архивные репозитории",
+    "forked_label": "Свои форки",
+    "softskills_label": "Фокус и ценности",
+    "interests_label": "Интересы",
+    "devops_label": "DevOps и надёжность",
+    "languages_label": "Языки",
+    "ai_label": "AI-инженерия",
+    "license_code": "Код",
+    "license_art": "Арт и профиль"
+  },
+  "structured_lists": {
+    "softskills_items": [
+      "Развитие человечества",
+      "Технологии",
+      "Инновации",
+      "Научные исследования"
+    ],
+    "interests_items": [
+      "Наука",
+      "Книги",
+      "Гитары",
+      "Музыка",
+      "Аниме"
+    ]
+  }
+}

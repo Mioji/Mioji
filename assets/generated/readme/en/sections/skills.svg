@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 68" role="img" aria-labelledby="title">
+<title id="title">Skills</title>
+<path d="M0 67H960" stroke="#3f2c52" fill="none" stroke-width="1" opacity="1"/>
+<path d="M0 67H112" stroke="#f28acb" fill="none" stroke-width="2" opacity="1"/>
+<text x="0" y="43" font-size="17" font-family="Consolas, Liberation Mono, monospace" font-weight="400" fill="#f28acb">04</text>
+<text x="48" y="44" font-size="26" font-family="Segoe UI, PingFang SC, Microsoft YaHei, Arial, sans-serif" font-weight="600" fill="#f5effb">Skills</text>
+<path d="M937 41l12-12m-10 0h10v10" stroke="#b59af4" fill="none" stroke-width="1.5" opacity="1"/>
+</svg>

@@ -1,0 +1,81 @@
+# SPDX-FileCopyrightText: 2026 Alexander (Mioji) <mioji.net@outlook.com>
+# SPDX-License-Identifier: MIT
+
+[project]
+name = "mioji-profile"
+version = "2.0.0"
+description = "Generator of the multilingual Mioji GitHub profile README"
+requires-python = ">=3.12"
+license = "MIT AND CC-BY-NC-ND-4.0"
+license-files = ["LICENSE", "LICENSES/*.txt"]
+# The expression covers the whole repository. Only the Python code under
+# tooling/ is MIT; see LICENSE, Section 1, for the assignment per path.
+authors = [{ name = "Alexander", email = "mioji.net@outlook.com" }]
+# The generator uses the standard library only; development tools are
+# pinned with hashes in tooling/requirements-dev.txt.
+dependencies = []
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+src = ["tooling"]
+
+[tool.ruff.lint]
+select = [
+    "A",    # flake8-builtins
+    "B",    # flake8-bugbear
+    "BLE",  # flake8-blind-except
+    "C4",   # flake8-comprehensions
+    "D",    # pydocstyle
+    "DTZ",  # flake8-datetimez
+    "E",    # pycodestyle errors
+    "ERA",  # commented-out code
+    "F",    # pyflakes
+    "FURB", # refurb
+    "I",    # isort
+    "N",    # pep8-naming
+    "PERF", # perflint
+    "PGH",  # pygrep-hooks
+    "PIE",  # flake8-pie
+    "PT",   # flake8-pytest-style
+    "PTH",  # flake8-use-pathlib
+    "RET",  # flake8-return
+    "RUF",  # Ruff-specific rules
+    "S",    # flake8-bandit
+    "SIM",  # flake8-simplify
+    "T20",  # flake8-print
+    "UP",   # pyupgrade
+    "W",    # pycodestyle warnings
+]
+
+[tool.ruff.lint.per-file-ignores]
+"tooling/profilegen/cli.py" = ["T201"]  # The CLI reports results on stdout.
+# Test names document intent, pytest relies on assert, and fixtures quote
+# CJK punctuation and typographic dashes from the locale catalogues.
+"tooling/tests/**" = ["D1", "RUF001", "S101"]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.ruff.lint.pycodestyle]
+max-doc-length = 80
+
+[tool.ruff.format]
+line-ending = "lf"
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+files = ["tooling"]
+mypy_path = "tooling"
+explicit_package_bases = true
+warn_unreachable = true
+enable_error_code = ["ignore-without-code", "redundant-expr", "truthy-bool"]
+
+[tool.pytest.ini_options]
+minversion = "9.0"
+testpaths = ["tooling/tests"]
+pythonpath = ["tooling"]
+addopts = ["-ra", "--strict-config", "--strict-markers", "-p", "no:cacheprovider"]
+filterwarnings = ["error"]
+xfail_strict = true

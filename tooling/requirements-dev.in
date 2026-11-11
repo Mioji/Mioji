@@ -1,0 +1,6 @@
+# Development tools. Regenerate the pinned lock file after any change:
+#   uv pip compile --generate-hashes --universal --python-version 3.12 \
+#     tooling/requirements-dev.in -o tooling/requirements-dev.txt
+mypy==2.4.1
+pytest==9.2.0
+ruff==0.17.4

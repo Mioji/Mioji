@@ -1,0 +1,152 @@
+Mioji/Mioji: Licensing Terms
+
+Copyright (c) 2026 Alexander (Mioji) <mioji.net@outlook.com>
+Repository: https://github.com/Mioji/Mioji
+
+This repository is licensed under two licenses. Every file is governed
+by exactly one of them, as assigned in Section 1. The same assignment is
+expressed in machine-readable form by the SPDX-License-Identifier
+headers in source files and by REUSE.toml, which is checked by the test
+suite. The complete text of each license is in the LICENSES directory.
+
+  SPDX-License-Identifier: MIT
+  SPDX-License-Identifier: CC-BY-NC-ND-4.0
+
+
+1. Assignment of licenses
+
+1.1 Software and documentation: MIT
+
+The following paths (the "Software") are licensed under the MIT License,
+LICENSES/MIT.txt:
+
+  - tooling/
+  - .github/
+  - locales/readme/template.md
+  - configs/theme.json
+  - configs/skills.json
+  - docs/
+  - assets/profile/backgrounds/prompts/ (see Section 3)
+  - pyproject.toml, REUSE.toml, LICENSE, .gitignore, .gitattributes
+
+1.2 Creative works and personal data: CC BY-NC-ND 4.0
+
+The following paths (the "Creative Works") are licensed under the
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+International Public License, LICENSES/CC-BY-NC-ND-4.0.txt and
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode:
+
+  - assets/profile/ (banner and panel backgrounds), except the prompts
+    in assets/profile/backgrounds/prompts/
+  - assets/generated/
+  - locales/readme/*/strings.json
+  - locales/readme/*/README.md
+  - README.md
+  - configs/profile.json
+  - configs/data/
+
+The Creative Works include the generated files, because they embed the
+artwork and the Licensor's texts, and the configuration and data files
+that identify the Licensor. The Licensor asserts these rights to the
+extent that they subsist in the applicable jurisdiction.
+
+1.3 Third-party names
+
+Names of technologies, products and services that appear in the skill
+badges and project texts are trademarks of their respective owners. They
+are used for identification only and imply no affiliation.
+
+
+2. Permitted use of this repository
+
+Subject to the licenses above, you may:
+
+  (a) fork, clone and run the generator, and use this repository as the
+      engine for your own GitHub profile;
+  (b) adapt, extend and redistribute the Software, including for
+      commercial purposes, under the MIT License;
+  (c) change the theme, colors, layout, locales and styles of your own
+      profile by editing configuration files and templates;
+  (d) share the Creative Works verbatim and unmodified, for
+      non-commercial purposes only, with the attribution in Section 5.
+
+
+3. Prompts
+
+The text of the generation prompts in
+assets/profile/backgrounds/prompts/, and the banner prompt reproduced in
+docs/design.md, is licensed under the MIT License. It is published as a
+reference so that you can generate your own, independent artwork.
+
+The license of the prompts does not extend to the image files in this
+repository. The images generated from these prompts remain Creative
+Works under CC BY-NC-ND 4.0, and nothing in this Section grants any right
+in them.
+
+
+4. Template Usage Clause
+
+This Section states the consequences of the licenses in Section 1 for a
+person who forks or copies this repository as the basis for a profile of
+their own (a "Derived Profile"). It grants no right beyond those licenses
+and imposes no restriction on the Software.
+
+A Derived Profile may use the Software under the MIT License. Before a
+Derived Profile is published, the following must be replaced with your
+own material, because the license of the Creative Works does not permit
+their use there:
+
+  (a) the image files assets/profile/banner.webp and
+      assets/profile/backgrounds/**/*.webp, and every generated file that
+      embeds them (assets/generated/ and the generated READMEs);
+  (b) the texts in locales/readme/*/strings.json that describe the
+      Licensor, the Licensor's projects and interests, and the banner;
+  (c) the identity, contact, project and catalog entries in
+      configs/profile.json, and the data in configs/data/snapshot.json;
+  (d) the name, account, e-mail address, messenger handle and links that
+      identify the Licensor or any other natural person.
+
+A Derived Profile must not:
+
+  (i)   use the original banner or panel backgrounds, whether unchanged
+        or edited, because CC BY-NC-ND 4.0 grants no right to create or
+        share adaptations;
+  (ii)  retain, display or publish personal data of the Licensor or of
+        any other person that is contained in this repository;
+  (iii) reproduce the Creative Works, in whole or in substantial part, so
+        as to form a copy of the Licensor's profile ("1:1 clone"), or
+        present them as the work or identity of anyone other than the
+        Licensor.
+
+You are encouraged to change the colors in configs/theme.json, and to
+replace the graphics, so that your profile has its own identity. Nothing
+in this Section restricts the exercise of rights in the Software under
+the MIT License, and no technical measure prevents it.
+
+
+5. Attribution
+
+Where the Creative Works are shared as permitted by CC BY-NC-ND 4.0,
+credit them as follows and retain a link to the license:
+
+  "Mioji profile artwork" by Alexander (Mioji),
+  https://github.com/Mioji/Mioji, licensed under CC BY-NC-ND 4.0.
+
+Where the Software or a substantial portion of it is distributed, the MIT
+copyright notice and permission notice in LICENSES/MIT.txt must be
+included.
+
+
+6. Rights not granted
+
+No license is granted to use the Licensor's name, account name, likeness
+or contact details, or to imply endorsement by the Licensor. Privacy and
+personality rights are not licensed under either license.
+
+
+7. Warranty and liability
+
+Each license contains its own disclaimer of warranties and limitation of
+liability, which apply to the material covered by that license. Where
+this document and the full text of a license differ, the full text of
+that license prevails.

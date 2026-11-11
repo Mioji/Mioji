@@ -1,0 +1,46 @@
+{
+  "name": "Mioji Cyberpunk Violet & Rose",
+  "palette": {
+    "background": "#0d0b14",
+    "border": "#3f2c52",
+    "grid": "#21192d",
+    "text": "#f5effb",
+    "muted": "#b9aacb",
+    "pink": "#f28acb",
+    "violet": "#b59af4"
+  },
+  "typography": {
+    "font_family": "Segoe UI, PingFang SC, Microsoft YaHei, Arial, sans-serif",
+    "mono_family": "Consolas, Liberation Mono, monospace"
+  },
+  "overlays": {
+    "summary": 0.62,
+    "project": 0.66,
+    "activity": 0.68,
+    "statistics": 0.82,
+    "knowledge": 0.68
+  },
+  "geometry": {
+    "corner_chamfer": 15,
+    "corner_bracket": 24
+  },
+  "badges": {
+    "navigation": {
+      "canvas_width": 124,
+      "display_height": 34
+    },
+    "contact": {
+      "canvas_width": 158,
+      "display_height": 36
+    },
+    "skill": {
+      "display_height": 36,
+      "min_width": 212,
+      "base_width": 64,
+      "char_width": 8
+    }
+  },
+  "breakpoints": {
+    "compact_max_width": 600
+  }
+}

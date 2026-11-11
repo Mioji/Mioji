@@ -1,0 +1,7 @@
+# Summary panel background
+
+Output: `assets/profile/backgrounds/summary.webp`
+
+Reference: `assets/profile/banner.webp`
+
+> Create one original, very wide panoramic background plate for the project summary strip immediately below the supplied GitHub profile banner. Use the supplied image only as the visual continuity reference: preserve its elegant polished 2D anime cyberpunk illustration quality, deep plum night city, rose-magenta glow, restrained violet light, fine luminous linework and calm cinematic mood. This is a distinct adjacent scene, not a copy of the banner. Do not include any person, face, body, character, avatar, text, letters, numbers, icons, logos, or UI. The scene is a quiet continuation of the same futuristic night city: distant riverfront lights, fine architectural neon lines, a few flowing rose-violet light trails at the far right that subtly echo the banner's hair motion without resembling hair or a person. Compose as an ultra-wide landscape background, 3:1 feel. Leave the entire left and center especially dark, simple, uncluttered and low contrast for three columns of foreground statistics. Keep the brightest lights near the far right edge and upper border, away from the primary text area. Rich but restrained, sophisticated, clean, cinematic, same near-black plum / violet / rose palette as the supplied banner. Dark exposure suitable for readable white, pink and lavender text over it. No gradients that wash out text; no bright focal point beneath the text.

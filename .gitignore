@@ -1,0 +1,12 @@
+# Python bytecode and tool caches.
+__pycache__/
+*.py[cod]
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+.venv/
+
+# Staging directory of tooling/profilegen/publish.py, left behind only if
+# the generator is killed mid-write.
+.profile-*/
