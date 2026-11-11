@@ -28,7 +28,7 @@
 
 <a href="#profile"><picture><source media="(max-width: 600px)" srcset="../../../assets/generated/readme/ru/sections/profile-compact.svg"><img src="../../../assets/generated/readme/ru/sections/profile.svg" alt="Статистика профиля" width="100%"></picture></a>
 
-<a href="https://github.com/Mioji"><picture><source media="(max-width: 600px)" srcset="../../../assets/generated/readme/ru/dashboard/profile-compact.svg"><img src="../../../assets/generated/readme/ru/dashboard/profile.svg" alt="Статистика профиля. Публичные репозитории: 1; Полученные звёзды: 0; Форки репозиториев: 0; Подписчики: 0; Подписки: 0; Публичные gist: 0; Исходные репозитории: 1; Открытые issues и PR: 0. 11.11.2026 00:54 UTC" width="100%"></picture></a>
+<a href="https://github.com/Mioji"><picture><source media="(max-width: 600px)" srcset="../../../assets/generated/readme/ru/dashboard/profile-compact.svg"><img src="../../../assets/generated/readme/ru/dashboard/profile.svg" alt="Статистика профиля. Публичные репозитории: 1; Полученные звёзды: 0; Форки репозиториев: 0; Подписчики: 0; Подписки: 0; Публичные gist: 0; Исходные репозитории: 1; Открытые issues и PR: 0. 11.11.2026 01:20 UTC" width="100%"></picture></a>
 
 <a id="skills"></a>
 

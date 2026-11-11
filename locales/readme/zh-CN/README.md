@@ -28,7 +28,7 @@
 
 <a href="#profile"><picture><source media="(max-width: 600px)" srcset="../../../assets/generated/readme/zh-CN/sections/profile-compact.svg"><img src="../../../assets/generated/readme/zh-CN/sections/profile.svg" alt="个人资料统计" width="100%"></picture></a>
 
-<a href="https://github.com/Mioji"><picture><source media="(max-width: 600px)" srcset="../../../assets/generated/readme/zh-CN/dashboard/profile-compact.svg"><img src="../../../assets/generated/readme/zh-CN/dashboard/profile.svg" alt="个人资料统计. 公开仓库: 1; 获得的星标: 0; 仓库分支数: 0; 关注者: 0; 正在关注: 0; 公开 Gist: 0; 原创仓库: 1; 未关闭的 Issue 与 PR: 0. 2026-11-11 00:54 UTC" width="100%"></picture></a>
+<a href="https://github.com/Mioji"><picture><source media="(max-width: 600px)" srcset="../../../assets/generated/readme/zh-CN/dashboard/profile-compact.svg"><img src="../../../assets/generated/readme/zh-CN/dashboard/profile.svg" alt="个人资料统计. 公开仓库: 1; 获得的星标: 0; 仓库分支数: 0; 关注者: 0; 正在关注: 0; 公开 Gist: 0; 原创仓库: 1; 未关闭的 Issue 与 PR: 0. 2026-11-11 01:20 UTC" width="100%"></picture></a>
 
 <a id="skills"></a>
 
