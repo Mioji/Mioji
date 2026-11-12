@@ -22,13 +22,13 @@
 
 <a href="#activity"><picture><source media="(max-width: 600px)" srcset="assets/generated/readme/en/sections/activity-compact.svg"><img src="assets/generated/readme/en/sections/activity.svg" alt="Public activity" width="100%"></picture></a>
 
-<a href="https://github.com/Mioji?tab=overview"><picture><source media="(max-width: 600px)" srcset="assets/generated/readme/en/dashboard/activity-compact.svg"><img src="assets/generated/readme/en/dashboard/activity.svg" alt="GitHub activity snapshot: 1 repositories, 0 stars, 0 forks, 0 followers. 2 events logged over the last 30 UTC days." width="100%"></picture></a>
+<a href="https://github.com/Mioji?tab=overview"><picture><source media="(max-width: 600px)" srcset="assets/generated/readme/en/dashboard/activity-compact.svg"><img src="assets/generated/readme/en/dashboard/activity.svg" alt="GitHub activity snapshot: 1 repositories, 0 stars, 0 forks, 0 followers. 4 events logged over the last 30 UTC days." width="100%"></picture></a>
 
 <a id="profile"></a>
 
 <a href="#profile"><picture><source media="(max-width: 600px)" srcset="assets/generated/readme/en/sections/profile-compact.svg"><img src="assets/generated/readme/en/sections/profile.svg" alt="Profile statistics" width="100%"></picture></a>
 
-<a href="https://github.com/Mioji"><picture><source media="(max-width: 600px)" srcset="assets/generated/readme/en/dashboard/profile-compact.svg"><img src="assets/generated/readme/en/dashboard/profile.svg" alt="Profile statistics. Public repositories: 1; Stars received: 0; Repository forks: 0; Followers: 0; Following: 0; Public gists: 0; Source repositories: 1; Open issues &amp; PRs: 0. 2026-11-11 14:35 UTC" width="100%"></picture></a>
+<a href="https://github.com/Mioji"><picture><source media="(max-width: 600px)" srcset="assets/generated/readme/en/dashboard/profile-compact.svg"><img src="assets/generated/readme/en/dashboard/profile.svg" alt="Profile statistics. Public repositories: 1; Stars received: 0; Repository forks: 0; Followers: 0; Following: 0; Public gists: 0; Source repositories: 1; Open issues &amp; PRs: 0. 2026-11-12 15:27 UTC" width="100%"></picture></a>
 
 <a id="skills"></a>
 

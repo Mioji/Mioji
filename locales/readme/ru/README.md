@@ -22,13 +22,13 @@
 
 <a href="#activity"><picture><source media="(max-width: 600px)" srcset="../../../assets/generated/readme/ru/sections/activity-compact.svg"><img src="../../../assets/generated/readme/ru/sections/activity.svg" alt="Публичная активность" width="100%"></picture></a>
 
-<a href="https://github.com/Mioji?tab=overview"><picture><source media="(max-width: 600px)" srcset="../../../assets/generated/readme/ru/dashboard/activity-compact.svg"><img src="../../../assets/generated/readme/ru/dashboard/activity.svg" alt="Метрики GitHub: 1 репозиториев, 0 звёзд, 0 форков, 0 подписчиков. 2 событий за последние 30 дней (UTC)." width="100%"></picture></a>
+<a href="https://github.com/Mioji?tab=overview"><picture><source media="(max-width: 600px)" srcset="../../../assets/generated/readme/ru/dashboard/activity-compact.svg"><img src="../../../assets/generated/readme/ru/dashboard/activity.svg" alt="Метрики GitHub: 1 репозиториев, 0 звёзд, 0 форков, 0 подписчиков. 4 событий за последние 30 дней (UTC)." width="100%"></picture></a>
 
 <a id="profile"></a>
 
 <a href="#profile"><picture><source media="(max-width: 600px)" srcset="../../../assets/generated/readme/ru/sections/profile-compact.svg"><img src="../../../assets/generated/readme/ru/sections/profile.svg" alt="Статистика профиля" width="100%"></picture></a>
 
-<a href="https://github.com/Mioji"><picture><source media="(max-width: 600px)" srcset="../../../assets/generated/readme/ru/dashboard/profile-compact.svg"><img src="../../../assets/generated/readme/ru/dashboard/profile.svg" alt="Статистика профиля. Публичные репозитории: 1; Полученные звёзды: 0; Форки репозиториев: 0; Подписчики: 0; Подписки: 0; Публичные gist: 0; Исходные репозитории: 1; Открытые issues и PR: 0. 11.11.2026 14:35 UTC" width="100%"></picture></a>
+<a href="https://github.com/Mioji"><picture><source media="(max-width: 600px)" srcset="../../../assets/generated/readme/ru/dashboard/profile-compact.svg"><img src="../../../assets/generated/readme/ru/dashboard/profile.svg" alt="Статистика профиля. Публичные репозитории: 1; Полученные звёзды: 0; Форки репозиториев: 0; Подписчики: 0; Подписки: 0; Публичные gist: 0; Исходные репозитории: 1; Открытые issues и PR: 0. 12.11.2026 15:27 UTC" width="100%"></picture></a>
 
 <a id="skills"></a>
 

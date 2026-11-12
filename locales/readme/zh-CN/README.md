@@ -22,13 +22,13 @@
 
 <a href="#activity"><picture><source media="(max-width: 600px)" srcset="../../../assets/generated/readme/zh-CN/sections/activity-compact.svg"><img src="../../../assets/generated/readme/zh-CN/sections/activity.svg" alt="公开活动" width="100%"></picture></a>
 
-<a href="https://github.com/Mioji?tab=overview"><picture><source media="(max-width: 600px)" srcset="../../../assets/generated/readme/zh-CN/dashboard/activity-compact.svg"><img src="../../../assets/generated/readme/zh-CN/dashboard/activity.svg" alt="GitHub 活动指标：1 个仓库，0 颗星标，0 次派生，0 位关注者。近 30 个 UTC 日内记录了 2 次事件。" width="100%"></picture></a>
+<a href="https://github.com/Mioji?tab=overview"><picture><source media="(max-width: 600px)" srcset="../../../assets/generated/readme/zh-CN/dashboard/activity-compact.svg"><img src="../../../assets/generated/readme/zh-CN/dashboard/activity.svg" alt="GitHub 活动指标：1 个仓库，0 颗星标，0 次派生，0 位关注者。近 30 个 UTC 日内记录了 4 次事件。" width="100%"></picture></a>
 
 <a id="profile"></a>
 
 <a href="#profile"><picture><source media="(max-width: 600px)" srcset="../../../assets/generated/readme/zh-CN/sections/profile-compact.svg"><img src="../../../assets/generated/readme/zh-CN/sections/profile.svg" alt="个人资料统计" width="100%"></picture></a>
 
-<a href="https://github.com/Mioji"><picture><source media="(max-width: 600px)" srcset="../../../assets/generated/readme/zh-CN/dashboard/profile-compact.svg"><img src="../../../assets/generated/readme/zh-CN/dashboard/profile.svg" alt="个人资料统计. 公开仓库: 1; 获得的星标: 0; 仓库分支数: 0; 关注者: 0; 正在关注: 0; 公开 Gist: 0; 原创仓库: 1; 未关闭的 Issue 与 PR: 0. 2026-11-11 14:35 UTC" width="100%"></picture></a>
+<a href="https://github.com/Mioji"><picture><source media="(max-width: 600px)" srcset="../../../assets/generated/readme/zh-CN/dashboard/profile-compact.svg"><img src="../../../assets/generated/readme/zh-CN/dashboard/profile.svg" alt="个人资料统计. 公开仓库: 1; 获得的星标: 0; 仓库分支数: 0; 关注者: 0; 正在关注: 0; 公开 Gist: 0; 原创仓库: 1; 未关闭的 Issue 与 PR: 0. 2026-11-12 15:27 UTC" width="100%"></picture></a>
 
 <a id="skills"></a>
 
