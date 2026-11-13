@@ -24,7 +24,7 @@
 <text x="24" y="265" font-size="17" font-family="Segoe UI, PingFang SC, Microsoft YaHei, Arial, sans-serif" font-weight="400" fill="#b9aacb">На GitHub с</text>
 <text x="304" y="265" font-size="17" font-family="Consolas, Liberation Mono, monospace" font-weight="400" fill="#b59af4">30.07.2026</text>
 <text x="24" y="299" font-size="17" font-family="Segoe UI, PingFang SC, Microsoft YaHei, Arial, sans-serif" font-weight="400" fill="#b9aacb">Последний публичный push</text>
-<text x="304" y="299" font-size="17" font-family="Consolas, Liberation Mono, monospace" font-weight="400" fill="#b59af4">11.11.2026</text>
+<text x="304" y="299" font-size="17" font-family="Consolas, Liberation Mono, monospace" font-weight="400" fill="#b59af4">12.11.2026</text>
 <text x="504" y="265" font-size="17" font-family="Segoe UI, PingFang SC, Microsoft YaHei, Arial, sans-serif" font-weight="400" fill="#b9aacb">Архивные репозитории</text>
 <text x="784" y="265" font-size="17" font-family="Consolas, Liberation Mono, monospace" font-weight="400" fill="#b59af4">0</text>
 <text x="504" y="299" font-size="17" font-family="Segoe UI, PingFang SC, Microsoft YaHei, Arial, sans-serif" font-weight="400" fill="#b9aacb">Свои форки</text>
@@ -32,6 +32,6 @@
 <text x="24" y="343" font-size="18" font-family="Segoe UI, PingFang SC, Microsoft YaHei, Arial, sans-serif" font-weight="600" fill="#f5effb">Основные языки репозиториев</text>
 <text x="24" y="370" font-size="17" font-family="Segoe UI, PingFang SC, Microsoft YaHei, Arial, sans-serif" font-weight="400" fill="#b9aacb">Python (1)</text>
 <path d="M24 380H936" stroke="#3f2c52" fill="none" stroke-width="1" opacity="1"/>
-<text x="24" y="406" font-size="15" font-family="Segoe UI, PingFang SC, Microsoft YaHei, Arial, sans-serif" font-weight="400" fill="#b59af4">Обновлено 12.11.2026 15:27 UTC</text>
+<text x="24" y="406" font-size="15" font-family="Segoe UI, PingFang SC, Microsoft YaHei, Arial, sans-serif" font-weight="400" fill="#b59af4">Обновлено 13.11.2026 14:44 UTC</text>
 <text x="24" y="430" font-size="14" font-family="Segoe UI, PingFang SC, Microsoft YaHei, Arial, sans-serif" font-weight="400" fill="#b9aacb">Публичные данные GitHub / Ежедневное обновление через GitHub Actions</text>
 </svg>
